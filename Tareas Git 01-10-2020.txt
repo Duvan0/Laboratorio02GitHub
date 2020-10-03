@@ -1,0 +1,53 @@
+Tareas:
+/* Trabajo Individual */
+1. Clonar un repositorio pre-existente (público) en Git
+	a) Crear una rama en el entorno local llamada Desarrollo.
+	b) Crear un archivo llamado File001.txt
+	c) Configuran el editor N++ y agregan contenido al archivo.
+	d) Verifican el Status del Working Directory y Staging Area (Área de Trabajo)
+	e) Adicinar el archivo al área de trabajo.
+	f) Pasar del Aréa de trabajo al repositorio Local.
+	g) Pull del remoto al local
+	h) Push del Local Al remoto.
+	
+2. Crear un repositorio Local, agregar archivos, modificarlos, y llevarlos
+al Staging Area y al Index (Repositorio Local)
+
+	0) Integrarse con un repositorio Remoto.
+	a) Crear una rama en el entorno local llamada Desarrollo.
+	b) Crear un archivo llamado File001.txt
+	c) Configuran el editor N++ y agregan contenido al archivo.
+	d) Verifican el Status del Working Directory y Staging Area (Área de Trabajo)
+	e) Adicinar el archivo al área de trabajo.
+	f) Pasar del Aréa de trabajo al repositorio Local.
+	g) Pull del remoto al local
+	h) Push del Local Al remoto.
+
+3. Replicar el laboratorio 3 de Git y Visual Studio Code
+
+Nota: Es libre tomar el camini 1 ó 2. Recomendación camino 2.
+
+/* Trabajo en grupo */
+
+4. Crear un proyecto.
+	a) Asociar los miembros del equipo.
+	b) Asociar el Repositorio.
+	c) definir los permisos a los miembros.
+	d) Crear una rama en el entorno remoto llamada Desarrollo.
+	e) Crear una rama en el entorno remoto derivada de desarrollo y asociada a cada Miembro del equipo de desarrollo.
+	* Configuran el editor N++ y agregan contenido al archivo.
+	b) Cada Miembro crea archivos en su rama local, los lleva al Stagin Area y luego al index (repositorio Local).
+	
+	d) Verifican el Status del Working Directory y Staging Area (Área de Trabajo)
+	
+	g) Pull del remoto al local  de su respectiva rama.
+	h) Push del Local Al remoto de su respectiva rama.
+	
+	**  Generan la solicitud de P request al manager y/o moderador del repositorio.
+	i) el Manager revisara en el remoto, descargara a su repositorio local, compilara, probara y aprobara la solicitud.
+	j) El manager generara una fusión de la rama del desarrollador que hizo la solicitud con la rama de "Desarrollo " remota.
+	k) repetira el proceso y Fucionara la rama de desarrollo con la "master del remoto"
+	l) los desarrolladores descargaran todos los cambios de todas las ramas a su entorno local.
+	
+	
+	
